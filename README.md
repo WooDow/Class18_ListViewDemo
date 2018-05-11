@@ -29,6 +29,6 @@ ListViewDemo
  
       在一列中會有兩個TextView
       
-      android.R.id.text2
+      android.R.id.text1,android.R.id.text2
       
       
